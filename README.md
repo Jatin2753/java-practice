@@ -24,5 +24,6 @@ If you have any questions or suggestions, feel free to contact the repository ow
 
 Jatin gupta
 GitHub: @Jatin2753
-Email: jatin@example.com
+Email: jating2753@gmail.com
+
 Happy coding!
