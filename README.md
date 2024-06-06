@@ -1,4 +1,4 @@
-I'm happy to assist you with creating a README file for the specified repository. This is a sample that you can use:
+I'm happy to assist you with creating a README file for the specified repository. 
 
 
 -----Java Practice Library-----
